@@ -1,3 +1,5 @@
+This demo rails app demonstrates the use of authlogic and 
+declarative_authorization for authentication and authorization. 
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create 
